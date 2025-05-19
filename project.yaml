@@ -1,0 +1,136 @@
+basic:
+    name: 'https://visit.gent.be/nl'
+    environments:
+        production: 'https://visit.gent.be/nl'
+        staging: 'https://visit.qa.gent.be/nl'
+        development: 'https://visit.dv.gent.be/nl'
+    breakpoints:
+        - 640
+        - 1024
+        - 1200
+    pages:
+        - /
+        - /my-trip
+        - /zien-doen
+        - /agenda
+        - /eten-drinken
+        - /overnachten
+        - /goed-om-weten
+        - /blog
+        - '/zien-doen/bezienswaardigheden?f%5B0%5D=category:4&f%5B1%5D=category:4'
+        - '/zien-doen/bezienswaardigheden?f%5B0%5D=category:12&f%5B1%5D=category:12'
+        - '/zien-doen/bezienswaardigheden?f%5B0%5D=category:11&f%5B1%5D=category:11'
+        - '/zien-doen/bezienswaardigheden?f%5B0%5D=category:10&f%5B1%5D=category:10'
+        - /zien-doen/bezienswaardigheden
+        - /top-10-tips
+        - /goed-om-weten/praktische-info/rondtoeren/boottochten-gent-voor-zeebonken
+        - /goed-om-weten/praktische-info/inspiratie/tips-bij-regenweer
+        - /omg-van-eyck-was-here
+        - '/eten-drinken/restaurants-cafes?f%5B0%5D=category:20&f%5B1%5D=category:20'
+        - '/eten-drinken/restaurants-cafes?f%5B0%5D=category:21&f%5B1%5D=category:21'
+        - '/eten-drinken/restaurants-cafes?f%5B0%5D=category:22&f%5B1%5D=category:22'
+        - /eten-drinken/restaurants-cafes
+        - /goed-om-weten/praktische-info/inspiratie/wereldkeuken-gent
+        - /trendy-lunchplekjes
+        - /goed-om-weten/praktische-info/inspiratie/gentse-specialiteiten-en-sneukelingen
+        - /goed-om-weten/praktische-info/inspiratie/foodmarkten-gent
+        - /de-klassiekers
+        - '/poi-index/23?f%5B0%5D=category:30&f%5B1%5D=category:30'
+        - '/poi-index/23?f%5B0%5D=category:33&f%5B1%5D=category:33'
+        - '/poi-index/23?f%5B0%5D=category:32&f%5B1%5D=category:32'
+        - '/overnachten/logies?f%5B0%5D=category:23#main-content'
+        - /nachtleven-gent
+        - /goed-om-weten/praktische-info/inspiratie/cocktailbars
+        - /goed-om-weten/praktische-info/inspiratie/gastronomische-rock-n-roll
+        - /goed-om-weten/praktische-info/inspiratie/kunst-gent
+        - /voordeelacties
+        - /goed-om-weten/praktische-info/over-gent
+        - /goed-om-weten/praktische-info/inspiratie
+        - /goed-om-weten/praktische-info
+        - /goed-om-weten/praktische-info/rondtoeren/digitaal-stadsplan-van-gent
+        - /goed-om-weten/praktische-info/citycard-gent
+        - /agenda/evenementen/vaneyck
+        - '/agenda/evenementen?f%5B0%5D=event_category:15&f%5B1%5D=event_category:15'
+        - '/agenda/evenementen?f%5B0%5D=event_category:16&f%5B1%5D=event_category:16'
+        - '/agenda/evenementen?f%5B0%5D=event_category:17&f%5B1%5D=event_category:17'
+        - /agenda/evenementen
+        - /beleef-gent-met-je-vrienden
+        - /theater-en-cultuurhuizen
+        - /goed-om-weten/praktische-info/inspiratie/citytrip-met-kinderen-gent-je-match
+        - /wat-kan-je-momenteel-doen-gent
+        - /goed-om-weten/praktische-info/inspiratie/lam-gods-licht-en-lekkernijen
+        - /zien-doen/gravensteen-een-burcht-gent
+        - '/flag/flag/my_trip/1588?destination&token=la2wjaalrvw_3xuwqcgoxj-fmkc4n2lwysnkysexizi'
+        - /goed-om-weten/praktische-info/inspiratie/shoppen-gent-veelzijdig-plezant
+        - /musea-gent
+        - /bierstad-gent
+        - /zien-doen/de-krook
+        - '/flag/flag/my_trip/1787?destination&token=7isci_dg_3n1ur7lhtz_-tzszaaz1fukrt2nt0tagsu'
+        - '/zien-doen/bezienswaardigheden?f%5B0%5D=category:1&f%5B1%5D=category:1&map=hide'
+        - '/zien-doen/bezienswaardigheden?f%5B0%5D=category:8&f%5B1%5D=category:8'
+        - '/zien-doen/bezienswaardigheden?f%5B0%5D=category:38&f%5B1%5D=category:38'
+        - '/eten-drinken/restaurants-cafes?f%5B0%5D=category:20&f%5B1%5D=category:20&f%5B2%5D=category:20&f%5B3%5D=category:20'
+        - '/eten-drinken/restaurants-cafes?f%5B0%5D=category:21&f%5B1%5D=category:21&f%5B2%5D=category:21&f%5B3%5D=category:21'
+        - '/eten-drinken/restaurants-cafes?f%5B0%5D=category:22&f%5B1%5D=category:22&f%5B2%5D=category:22&f%5B3%5D=category:22'
+        - '/poi-index/23?f%5B0%5D=category:33&f%5B1%5D=category:33&f%5B2%5D=category:33&f%5B3%5D=category:33'
+        - '/poi-index/23?f%5B0%5D=category:30&f%5B1%5D=category:30&f%5B2%5D=category:30&f%5B3%5D=category:30'
+        - '/poi-index/23?f%5B0%5D=category:32&f%5B1%5D=category:32&f%5B2%5D=category:32&f%5B3%5D=category:32'
+        - /fietsvriendelijke-logies
+        - /faq-veelgestelde-vragen
+        - /zien-doen/infokantoor-visit-gent
+        - /travel-trade
+        - /pers
+        - /visit-gent-voor-professionals
+        - /gentcongres
+        - /goed-om-weten/praktische-info/rondtoeren/stadswandelen-gent-doen/culinaire-rondleidingen
+        - /eten-drinken/club-central
+        - /overnachten/ghent-river-hotel
+        - /zien-doen/capitole
+        - /agenda/omg-seven-senses-tour
+        - /agenda/meer-stemmig-gent
+        - /agenda/van-eyck-de-diepte
+        - /agenda/amenra-guests
+        - /gentcongres/over-gentcongres
+        - /over-gentcongres/onze-diensten
+        - /gentcongres/zalenzoeker
+        - /gentcongres/3square
+        - '/gentcongres/zalenzoeker?plenary%5Bmin%5D=300'
+        - '/gentcongres/zalenzoeker?plenary%5Bmin%5D=300&plenary%5Bmax%5D=1000'
+        - '/gentcongres/zalenzoeker?plenary%5Bmax%5D=200'
+    monitoring:
+        days: {  }
+        type: ''
+        schedule_time: '01:30 AM'
+        schedule_time_zone: Europe/London
+        compare_with: last-production
+        compare_with_fresh: production
+advanced:
+    mask: ''
+    remove: ''
+    isolate: ''
+    delay: 0
+    scroll: false
+    headers:
+        - { value: '', header: '' }
+    cookies: "CookieConsent={stamp:'SfuDnX8lb16A6EdWHLXnp6rL/M48Mu0ed3idL7EezUSXY8sTtzKK7A=='%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1586194359794%2Cregion:'be'}"
+    custom_js: ''
+    custom_css: ''
+    mock_content:
+        - { type: title, selector: '' }
+    login:
+        type: none
+        click_element: false
+        click_element_selector: ''
+        login_url: ''
+        username: ''
+        password: ''
+        username_selector: ''
+        password_selector: ''
+        submit_selector: ''
+        after_login_selector: ''
+    performance:
+        workers_production: 30
+        workers_nonproduction: 10
+        workers_production_delay: 0
+        workers_nonproduction_delay: 0
+    stabilize: false
