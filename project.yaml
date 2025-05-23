@@ -108,8 +108,8 @@ advanced:
     mask: ''
     remove: ''
     isolate: ''
-    delay: 0
-    scroll: false
+    delay: 40
+    scroll: true
     headers:
         - { value: '', header: '' }
     cookies: "CookieConsent={stamp:'SfuDnX8lb16A6EdWHLXnp6rL/M48Mu0ed3idL7EezUSXY8sTtzKK7A=='%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1586194359794%2Cregion:'be'}"
